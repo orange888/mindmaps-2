@@ -1,0 +1,9 @@
+.settings/
+.project
+.classpath
+dist/
+node_modules/
+.idea
+.vscode/
+# Local Netlify folder
+.netlify
